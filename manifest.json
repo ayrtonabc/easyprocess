@@ -2,10 +2,12 @@
   "name": "Easyprecess Admin",
   "short_name": "EasyAdmin",
   "description": "Panel de administración de Easyprecess",
-  "start_url": "/admin",
+  "start_url": "/",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "/pwa-192x192.png",
