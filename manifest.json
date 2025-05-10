@@ -1,27 +1,20 @@
 {
-  "name": "EasyProcess App",
-  "short_name": "EasyProcess",
-  "description": "Client and Admin Dashboard for EasyProcess",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "name": "Easyprecess Admin",
+  "short_name": "EasyAdmin",
+  "description": "Panel de administración de Easyprecess",
+  "start_url": "/admin",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
-  "id": "/",
-  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
   "icons": [
     {
-      "src": "pwa-192x192.png",
+      "src": "/pwa-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "pwa-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "pwa-512x512.png",
+      "src": "/pwa-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
