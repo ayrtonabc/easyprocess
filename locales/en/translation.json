@@ -1,0 +1,495 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services_person": "Services for Individuals",
+    "services_company": "For Companies",
+    "contact": "Contact",
+    "cta_button": "Contact Us",
+    "free_tag": "Free",
+    "premium_tag": "Premium",
+    "services_person_title": "Services for Individuals",
+    "services_company_title": "For Companies",
+    "services_person_submenu": {
+      "pesel": "PESEL Application",
+      "banking": "Banking Management",
+      "guide": "PDF Guide",
+      "advisory": "Advisory Services",
+      "residence": "Residence Legalization"
+    },
+    "services_company_submenu": {
+      "residence_employees": "Residence Legalization for Employees",
+      "advisory_employees": "Employee Advisory",
+      "job_board": "Job Board"
+    }
+  },
+  "hero": {
+    "tagline": "Reliable and Secure Management",
+    "title": "Your residence <span class=\"text-blue-400\">without complications</span>",
+    "description": "We offer complete support and transparency at every stage of legalizing your residency in Poland, providing you with security and updated information.",
+    "detailsButton": "View Details",
+    "loginButton": "Client Access",
+    "slide1Title": "In 48 Hours",
+    "slide1Desc": "Submission of your Application",
+    "slide2Title": "In 3 Weeks",
+    "slide2Desc": "You will receive your Yellow Letter",
+    "slide3Title": "Tracking System",
+    "slide3Desc": "Directly connected with the Foreigners' Office, you will have updated information on the status of your process",
+    "slide4Title": "All Documents Within Reach",
+    "slide4Desc": "Have your documentation organized and updated"
+  },
+  "services": {
+    "title": "What Do We Offer?",
+    "subtitle": "Practical solutions for each stage of the process",
+    "card1Title": "Residency Start",
+    "card1Desc": "We manage the entire process from scratch with efficiency and precision.",
+    "card1Feature1": "Free evaluation",
+    "card1Feature2": "Document preparation",
+    "card1Feature3": "Official submission",
+    "card1Feature4": "Complete follow-up",
+    "card2Title": "Continue Process",
+    "card2Desc": "We resolve obstacles and advance your application with expertise.",
+    "card2Feature1": "Status review",
+    "card2Feature2": "Error correction",
+    "card2Feature3": "Power of attorney submission",
+    "card2Feature4": "Power of attorney cancellation",
+    "card2Feature5": "Legal advice",
+    "card3Title": "Appointment Management",
+    "card3Desc": "We recover lost appointments and coordinate new dates.",
+    "card3Feature1": "Quick rescheduling",
+    "card3Feature2": "Contact with authorities",
+    "card3Feature3": "Active follow-up",
+    "card3Feature4": "Guaranteed confirmation",
+    "card4Title": "Appeals",
+    "card4Desc": "We defend your case against denials with legal strategy.",
+    "card4Feature1": "Detailed analysis",
+    "card4Feature2": "Solid arguments",
+    "card4Feature3": "Extra documentation",
+    "card4Feature4": "Legal representation"
+  },
+  "process": {
+    "sectionTitle": "Simple Process",
+    "title": "Step by Step",
+    "subtitle": "A clear and transparent process, designed for your peace of mind",
+    "step1": {
+      "title": "Free Evaluation",
+      "description": "We analyze your case and create a personalized plan for your specific situation."
+    },
+    "step2": {
+      "title": "Documentation",
+      "description": "We prepare and translate all your necessary documents for the process."
+    },
+    "step3": {
+      "title": "Accompaniment",
+      "description": "We represent you before the authorities until you obtain your residency."
+    }
+  },
+  "advantages": {
+    "title": "Why Choose Us?",
+    "subtitle": "Detailed tracking and a proprietary system for your peace of mind",
+    "card1": {
+      "title": "Quick Start",
+      "description": "Your process begins in less than 48 hours with detailed tracking from day one."
+    },
+    "card2": {
+      "title": "Total Representation",
+      "description": "We represent you before the Polish authorities, keeping you informed at every stage."
+    },
+    "card3": {
+      "title": "Document Preparation",
+      "description": "We take care of preparing and reviewing your documents, with updates at all times."
+    },
+    "card4": {
+      "title": "Real-Time Tracking",
+      "description": "Access our exclusive system to see the status of your process whenever you want."
+    },
+    "card5": {
+      "title": "Automatic Notifications",
+      "description": "Receive updates by email and SMS about every important progress or change."
+    },
+    "card6": {
+      "title": "Support in Spanish",
+      "description": "Clear and personalized communication in your language, always at your disposal."
+    }
+  },
+  "pricing": {
+    "sectionTitle": "Single Price",
+    "title": "No hidden costs or surprises",
+    "subtitle": "One single cost for comprehensive service and full representation in your residency process. No surprises.",
+    "requirementsTitle": "Basic Requirements",
+    "requirement1": {
+      "title": "90 Days from Entry",
+      "description": "You must start the process within the first 90 days of your entry into the European Union."
+    },
+    "requirement2": {
+      "title": "Valid Passport",
+      "description": "Your passport must be valid throughout the entire residency process."
+    },
+    "requirement3": {
+      "title": "Reason for Stay",
+      "description": "You need a valid reason: work, studies, or family reunification."
+    },
+    "calculator": {
+      "toggleButtonOpen": "Check if you are within the deadline",
+      "toggleButtonClose": "Close Calculator",
+      "title": "Calculate Your Deadline",
+      "entryDateLabel": "Date of entry to the EU:",
+      "statusExpired": "⚠️ Sorry, the 90-day period has already expired. Contact us to evaluate other options.",
+      "statusUrgent": "⚡ Urgent! You have few days left. Contact us immediately to start your process.",
+      "statusOk": "✅ Perfect! You have until {{deadlineDate}} to start the process ({{daysLeft}} days remaining)."
+    },
+    "plan": {
+      "title": "Complete Residency Process",
+      "currency": "PLN",
+      "price": "1500",
+      "paymentTerms": "Up to 3 Monthly Payments",
+      "feature1": "100% legal and guaranteed process",
+      "feature2": "Start in less than 48 hours",
+      "feature3": "Documentation and translations included",
+      "feature4": "Personalized advice in Spanish",
+      "ctaButton": "Start Process"
+    }
+  },
+  "pesel": {
+    "sectionTag": "Free Service",
+    "title": "Need your PESEL number?",
+    "subtitle": "We help you at no cost!",
+    "feature1": {
+      "title": "Quick and Simple",
+      "description": "Get your PESEL in the shortest possible time with our free support."
+    },
+    "feature2": {
+      "title": "Correct Documentation",
+      "description": "We help you with all the necessary documents at no cost."
+    },
+    "feature3": {
+      "title": "100% Legal",
+      "description": "Completely legal process supervised by professionals, with no hidden costs."
+    },
+    "ctaButton": "Request Free PESEL",
+    "imageAlt": "Identity document"
+  },
+  "banking": {
+    "sectionTag": "Free Service",
+    "title": "Need to open a bank account in Poland?",
+    "feature1": {
+      "title": "Partner Banks",
+      "description": "We connect you with banks that facilitate account opening for foreigners, at no cost."
+    },
+    "feature2": {
+      "title": "Agile Process",
+      "description": "Free support to speed up your account opening process."
+    },
+    "feature3": {
+      "title": "Necessary Documentation",
+      "description": "We help you prepare all documents required by the bank, at no cost."
+    },
+    "ctaButton": "Request Free Help",
+    "imageAlt": "Bank card and documents",
+    "page": {
+      "title": "Open Your Bank Account in Poland Without Complications",
+      "feature1": {
+        "title": "Personalized Advice",
+        "description": "We guide you every step of the process."
+      },
+      "feature2": {
+        "title": "No Additional Cost",
+        "description": "Our account opening service is completely free."
+      },
+      "feature3": {
+        "title": "Continuous Support",
+        "description": "We are available to answer any questions."
+      },
+      "processTitle": "Account Opening Process",
+      "processSubtitle": "Follow these simple steps",
+      "step1": {
+        "title": "Documentation",
+        "description": "We help you prepare all the necessary documents."
+      },
+      "step2": {
+        "title": "Bank Selection",
+        "description": "We advise you to choose the bank that best suits your needs."
+      },
+      "step3": {
+        "title": "Account Opening",
+        "description": "We accompany you in the process of opening your bank account."
+      }
+    }
+  },
+  "guide": {
+    "sectionTag": "Free Guide",
+    "title": "Feeling lost with so much information?",
+    "feature1": {
+      "title": "Clear Concepts",
+      "description": "We explain all important terms and processes in simple language."
+    },
+    "feature2": {
+      "title": "Step by Step",
+      "description": "All stages of the residency process explained in detail."
+    },
+    "feature3": {
+      "title": "Useful Resources",
+      "description": "List of documents, requirements, and practical tips for your process."
+    },
+    "ctaButton": "Download Free Guide",
+    "imageAlt": "Residency guide",
+    "page": {
+      "title": "Download Your Free Guide for Residency in Poland",
+      "contentTitle": "Guide Content",
+      "contentSubtitle": "A complete guide to facilitate your process",
+      "section1": {
+        "title": "Clear Concepts",
+        "description": "We explain all important terms and processes in simple language."
+      },
+      "section2": {
+        "title": "Step by Step",
+        "description": "All stages of the residency process explained in detail."
+      },
+      "section3": {
+        "title": "Useful Resources",
+        "description": "List of documents, requirements, and practical tips for your process."
+      }
+    }
+  },
+  "map": {
+    "sectionTag": "Nationwide Representation",
+    "title": "We Help You in Any Region",
+    "subtitle": "100% online and personalized service for all of Poland",
+    "feature1": {
+      "title": "National Service",
+      "description": "We manage procedures in all voivodeships of Poland"
+    },
+    "feature2": {
+      "title": "Personalized Attention",
+      "description": "We adapt our service to your specific situation"
+    },
+    "feature3": {
+      "title": "100% Online",
+      "description": "Remote procedures with real-time tracking"
+    },
+    "coverageTitle": "National Coverage",
+    "coverageDescription": "We manage your procedure in any region of Poland remotely and personally",
+    "imageAlt": "Map of Poland"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you with your residency process",
+    "whatsapp": {
+      "title": "Do you have questions about your status?",
+      "description": "Write to us on WhatsApp, a residence legalization specialist will be ready to help you.",
+      "button": "Chat now"
+    },
+    "info1": {
+      "title": "Location",
+      "detail": "Ostroda, Poland"
+    },
+    "info2": {
+      "title": "Phone",
+      "detail": "+48 690 430 962"
+    },
+    "info3": {
+      "title": "Email",
+      "detail": "info@easyprocess.pl"
+    },
+    "form": {
+      "title": "Send us your inquiry",
+      "nameLabel": "Full name",
+      "namePlaceholder": "Enter your full name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Enter your email",
+      "phoneLabel": "Phone (Optional)",
+      "phonePlaceholder": "Enter your phone number",
+      "messageLabel": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "submitButton": "Send Message",
+      "successMessage": "Message sent successfully! We will contact you soon.",
+      "errorMessage": "Error sending message. Please try again later."
+    }
+  },
+  "footer": {
+    "companyName": "Easy Process",
+    "description": "Your trusted partner for residency legalization in Poland. Committed to excellence and transparency.",
+    "privacyPolicy": "Privacy Policy",
+    "rodo": "RODO (GDPR)",
+    "cookies": "Cookie Management",
+    "copyright": "© {{year}} Easy Process",
+    "nip": "NIP: 7412172375"
+  },
+  "peselPage": {
+    "hero": {
+      "badge": "Free PESEL Service",
+      "title": "Get your PESEL Number <br /> <span class=\"text-blue-600\">Easy and Fast</span>",
+      "description": "Complete the following step-by-step form to start your PESEL application with our free help.",
+      "feature1Title": "Guided Process",
+      "feature1Desc": "We accompany you at every stage of the form.",
+      "feature2Title": "Simplified Documentation",
+      "feature2Desc": "Make sure you have all the correct information.",
+      "feature3Title": "Free Support",
+      "feature3Desc": "Our team assists you at no cost."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know about the PESEL number",
+      "q1Title": "What is the PESEL number?",
+      "q1Answer": "The PESEL number is a unique identifier assigned to each resident in Poland. It is used for administrative, medical, and tax procedures.",
+      "q2Title": "Who needs a PESEL number?",
+      "q2Answer": "All residents in Poland, including foreigners with a temporary or permanent residence permit, need a PESEL number.",
+      "q3Title": "How long does the process take?",
+      "q3Answer": "Normally, the process of obtaining the PESEL number takes between 2 and 4 weeks from the submission of the complete application.",
+      "q4Title": "What documents do I need?",
+      "q4Answer": "You will need your passport, residence permit (if applicable), lease agreement or proof of address in Poland, and in some cases, a birth certificate."
+    }
+  },
+  "pageTitles": {
+    "main": "Easy Process - Residency in Poland"
+  },
+  "servicesCompany": {
+    "advisoryEmployees": {
+      "title": "Employee Advisory",
+      "subtitle": "Comprehensive solutions for your international staff adaptation",
+      "description": "We facilitate the integration of your foreign employees in Poland, eliminating cultural, administrative, and legal barriers so they can perform at their best from day one.",
+      "requestInfoButton": "Request information",
+      "whatsappButton": "Contact via WhatsApp",
+      "servicesTitle": "Comprehensive advisory services",
+      "servicesSubtitle": "We offer complete solutions for your foreign employees to feel at home",
+      "service1": {
+        "title": "Cultural adaptation",
+        "description": "Cultural and linguistic orientation programs to facilitate the integration of your employees in Poland."
+      },
+      "service2": {
+        "title": "Legal training",
+        "description": "Training on rights, obligations, and labor regulations in Poland for foreign employees."
+      },
+      "service3": {
+        "title": "Ongoing support",
+        "description": "Permanent assistance to resolve doubts and everyday situations throughout the stay."
+      },
+      "service4": {
+        "title": "Administrative management",
+        "description": "Help with banking, health, tax, and other essential administrative procedures."
+      },
+      "benefitsTitle": "Benefits for your company",
+      "benefitsSubtitle": "Investing in the well-being and adaptation of your foreign employees generates multiple advantages",
+      "benefit1": "Greater retention of international talent",
+      "benefit2": "Reduced adaptation stress in foreign employees",
+      "benefit3": "Improved productivity from day one",
+      "benefit4": "Compliance with employer obligations",
+      "benefit5": "Strengthened corporate image",
+      "benefit6": "Lower international staff turnover",
+      "processTitle": "Our advisory process",
+      "processSubtitle": "A methodical and personalized approach to ensure the best experience",
+      "phase1": {
+        "number": "1",
+        "title": "Needs assessment",
+        "description": "We analyze the specific needs of your foreign employees and your company."
+      },
+      "phase2": {
+        "number": "2",
+        "title": "Program design",
+        "description": "We create a personalized advisory program adapted to your sector and employees."
+      },
+      "phase3": {
+        "number": "3",
+        "title": "Implementation",
+        "description": "We execute the program with individual and group sessions as needed."
+      },
+      "phase4": {
+        "number": "4",
+        "title": "Continuous monitoring",
+        "description": "We maintain constant support and evaluate results to continuously improve."
+      },
+      "successCasesTitle": "Success cases",
+      "successCasesSubtitle": "Companies that have transformed the experience of their international employees",
+      "case1": {
+        "company": "European Construction S.A.",
+        "result": "Successful integration of 35 workers of different nationalities in less than 3 months."
+      },
+      "case2": {
+        "company": "Tech Solutions Poland",
+        "result": "40% reduction in foreign staff turnover after implementing our advisory program."
+      },
+      "ctaTitle": "Transform the experience of your international employees",
+      "ctaDescription": "Let us help you create an inclusive and productive work environment for your multicultural team",
+      "ctaButton": "Request a personalized proposal",
+      "callButton": "Call now: +48 690 430 962"
+    },
+    "residenceEmployees": {
+      "title": "Residence Legalization for Employees",
+      "subtitle": "Comprehensive immigration solutions for companies",
+      "description": "Allow your company to grow without limits. We take care of all legal aspects so your foreign employees can work without immigration concerns, while you focus on what really matters: your business.",
+      "requestButton": "Request free advice",
+      "whatsappButton": "Contact via WhatsApp",
+      "benefitsTitle": "Benefits for your company",
+      "benefitsSubtitle": "Optimize your resources and eliminate concerns related to the immigration status of your employees",
+      "benefit1": {
+        "title": "Time saving",
+        "description": "Reduce by up to 70% the time spent on immigration procedures for your employees."
+      },
+      "benefit2": {
+        "title": "Guaranteed legal compliance",
+        "description": "We ensure that all processes comply with current regulations, eliminating legal risks."
+      },
+      "benefit3": {
+        "title": "Talent retention",
+        "description": "Facilitate the permanence of your best foreign professionals without immigration concerns."
+      },
+      "benefit4": {
+        "title": "Greater productivity",
+        "description": "Your employees can focus on their work while we take care of their legal situation."
+      },
+      "stat1": {
+        "value": "98%",
+        "description": "Success rate in procedures"
+      },
+      "stat2": {
+        "value": "+500",
+        "description": "Companies trust us"
+      },
+      "stat3": {
+        "value": "-60%",
+        "description": "Reduction in administrative costs"
+      },
+      "stat4": {
+        "value": "+2000",
+        "description": "Legalized employees"
+      },
+      "processTitle": "Our legalization process",
+      "processSubtitle": "A structured and efficient approach to ensure optimal results",
+      "step1": {
+        "number": "01",
+        "title": "Initial assessment",
+        "description": "We analyze the specific situation of each employee and the requirements for their legalization."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Documentation preparation",
+        "description": "We collect and prepare all necessary documents according to legal requirements."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Application submission",
+        "description": "We manage the submission of all applications to the competent authorities."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Monitoring and resolution",
+        "description": "We monitor the process and respond to any additional requirements until resolution."
+      },
+      "testimonialsTitle": "What our clients say",
+      "testimonialsSubtitle": "Companies that have trusted our legalization services",
+      "testimonial1": {
+        "name": "María Rodríguez",
+        "position": "HR Director, International Construction",
+        "text": "Thanks to Easy Process, we have been able to incorporate more than 50 foreign workers without any legal complications. Their service is impeccable."
+      },
+      "testimonial2": {
+        "name": "Alejandro Méndez",
+        "position": "CEO, Labor Recruitment Agency",
+        "text": "Working with Easy Process has transformed our ability to offer foreign workers to our clients. An indispensable ally."
+      },
+      "ctaTitle": "Optimize your company's immigration management today",
+      "ctaDescription": "Allow your employees to focus on their work while we take care of their legal situation in Poland",
+      "ctaButton": "Request a consultation",
+      "callButton": "Call now: +48 690 430 962"
+    }
+  }
+}

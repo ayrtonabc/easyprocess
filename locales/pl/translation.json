@@ -1,0 +1,495 @@
+{
+  "navbar": {
+    "home": "Strona główna",
+    "services_person": "Usługi dla osób",
+    "services_company": "Dla firm",
+    "contact": "Kontakt",
+    "cta_button": "Skontaktuj się",
+    "free_tag": "Bezpłatne",
+    "premium_tag": "Premium",
+    "services_person_title": "Usługi dla osób",
+    "services_company_title": "Dla firm",
+    "services_person_submenu": {
+      "pesel": "Wniosek o PESEL",
+      "banking": "Zarządzanie bankowe",
+      "guide": "Przewodnik PDF",
+      "advisory": "Doradztwo",
+      "residence": "Legalizacja Pobytu"
+    },
+    "services_company_submenu": {
+      "residence_employees": "Legalizacja pobytu dla pracowników",
+      "advisory_employees": "Doradztwo dla pracowników",
+      "job_board": "Giełda pracy"
+    }
+  },
+  "hero": {
+    "tagline": "Niezawodne i Bezpieczne Zarządzanie",
+    "title": "Twój pobyt <span class=\"text-blue-400\">bez komplikacji</span>",
+    "description": "Zapewniamy pełne wsparcie i przejrzystość na każdym etapie legalizacji Twojego pobytu w Polsce, dając Ci pewność i aktualne informacje.",
+    "detailsButton": "Zobacz Szczegóły",
+    "loginButton": "Dostęp dla Klientów",
+    "slide1Title": "W 48 Godzin",
+    "slide1Desc": "Złożenie Twojego Wniosku",
+    "slide2Title": "W 3 Tygodnie",
+    "slide2Desc": "Otrzymasz Żółtą Kartę",
+    "slide3Title": "System Śledzenia",
+    "slide3Desc": "Bezpośrednio połączony z Urzędem ds. Cudzoziemców, będziesz miał aktualne informacje o statusie swojego procesu",
+    "slide4Title": "Wszystkie Dokumenty w Zasięgu Ręki",
+    "slide4Desc": "Miej swoją dokumentację uporządkowaną i zaktualizowaną"
+  },
+  "services": {
+    "title": "Co Oferujemy?",
+    "subtitle": "Praktyczne rozwiązania na każdym etapie procesu",
+    "card1Title": "Rozpoczęcie Pobytu",
+    "card1Desc": "Zarządzamy całym procesem od zera z efektywnością i precyzją.",
+    "card1Feature1": "Bezpłatna ocena",
+    "card1Feature2": "Przygotowanie dokumentów",
+    "card1Feature3": "Oficjalne złożenie",
+    "card1Feature4": "Pełne śledzenie",
+    "card2Title": "Kontynuacja Procesu",
+    "card2Desc": "Rozwiązujemy przeszkody i przyspieszamy Twój wniosek dzięki naszej wiedzy.",
+    "card2Feature1": "Przegląd statusu",
+    "card2Feature2": "Korekta błędów",
+    "card2Feature3": "Złożenie pełnomocnictwa",
+    "card2Feature4": "Odwołanie pełnomocnictwa",
+    "card2Feature5": "Doradztwo prawne",
+    "card3Title": "Zarządzanie Wizytami",
+    "card3Desc": "Odzyskujemy utracone wizyty i koordynujemy nowe terminy.",
+    "card3Feature1": "Szybkie przeplanowanie",
+    "card3Feature2": "Kontakt z urzędami",
+    "card3Feature3": "Aktywne śledzenie",
+    "card3Feature4": "Gwarantowane potwierdzenie",
+    "card4Title": "Odwołania",
+    "card4Desc": "Bronimy Twojej sprawy w przypadku odmowy, stosując strategię prawną.",
+    "card4Feature1": "Szczegółowa analiza",
+    "card4Feature2": "Solidne argumenty",
+    "card4Feature3": "Dodatkowa dokumentacja",
+    "card4Feature4": "Reprezentacja prawna"
+  },
+  "process": {
+    "sectionTitle": "Prosty Proces",
+    "title": "Krok po Kroku",
+    "subtitle": "Jasny i przejrzysty proces, zaprojektowany dla Twojego spokoju",
+    "step1": {
+      "title": "Bezpłatna Ocena",
+      "description": "Analizujemy Twoją sprawę i tworzymy spersonalizowany plan dla Twojej konkretnej sytuacji."
+    },
+    "step2": {
+      "title": "Dokumentacja",
+      "description": "Przygotowujemy i tłumaczymy wszystkie niezbędne dokumenty do procesu."
+    },
+    "step3": {
+      "title": "Wsparcie",
+      "description": "Reprezentujemy Cię przed urzędami aż do uzyskania Twojego pobytu."
+    }
+  },
+  "advantages": {
+    "title": "Dlaczego My?",
+    "subtitle": "Szczegółowe śledzenie i własny system dla Twojego spokoju",
+    "card1": {
+      "title": "Szybki Start",
+      "description": "Twój proces rozpoczyna się w mniej niż 48 godzin ze szczegółowym śledzeniem od pierwszego dnia."
+    },
+    "card2": {
+      "title": "Pełna Reprezentacja",
+      "description": "Reprezentujemy Cię przed polskimi urzędami, informując Cię na każdym etapie."
+    },
+    "card3": {
+      "title": "Przygotowanie Dokumentów",
+      "description": "Zajmujemy się przygotowaniem i sprawdzaniem Twoich dokumentów, z aktualizacjami na bieżąco."
+    },
+    "card4": {
+      "title": "Śledzenie w Czasie Rzeczywistym",
+      "description": "Uzyskaj dostęp do naszego ekskluzywnego systemu, aby zobaczyć status swojego procesu, kiedy tylko chcesz."
+    },
+    "card5": {
+      "title": "Automatyczne Powiadomienia",
+      "description": "Otrzymuj aktualizacje e-mailem i SMS-em o każdym ważnym postępie lub zmianie."
+    },
+    "card6": {
+      "title": "Obsługa w Języku Hiszpańskim",
+      "description": "Jasna i spersonalizowana komunikacja w Twoim języku, zawsze do Twojej dyspozycji."
+    }
+  },
+  "pricing": {
+    "sectionTitle": "Jedna Cena",
+    "title": "Bez ukrytych kosztów i niespodzianek",
+    "subtitle": "Jeden koszt za kompleksową obsługę i pełną reprezentację w Twoim procesie legalizacji pobytu. Bez niespodzianek.",
+    "requirementsTitle": "Podstawowe Wymagania",
+    "requirement1": {
+      "title": "90 Dni od Wjazdu",
+      "description": "Musisz rozpocząć procedurę w ciągu pierwszych 90 dni od wjazdu do Unii Europejskiej."
+    },
+    "requirement2": {
+      "title": "Ważny Paszport",
+      "description": "Twój paszport musi być ważny przez cały proces legalizacji pobytu."
+    },
+    "requirement3": {
+      "title": "Cel Pobytu",
+      "description": "Potrzebujesz ważnego celu: praca, studia lub połączenie rodzinne."
+    },
+    "calculator": {
+      "toggleButtonOpen": "Sprawdź, czy jesteś w terminie",
+      "toggleButtonClose": "Zamknij Kalkulator",
+      "title": "Oblicz Swój Termin",
+      "entryDateLabel": "Data wjazdu do UE:",
+      "statusExpired": "⚠️ Niestety, 90-dniowy termin już upłynął. Skontaktuj się z nami, aby ocenić inne opcje.",
+      "statusUrgent": "⚡ Pilne! Zostało Ci niewiele dni. Skontaktuj się z nami natychmiast, aby rozpocząć proces.",
+      "statusOk": "✅ Idealnie! Masz czas do {{deadlineDate}}, aby rozpocząć proces (pozostało {{daysLeft}} dni)."
+    },
+    "plan": {
+      "title": "Kompletny Proces Legalizacji Pobytu",
+      "currency": "PLN",
+      "price": "1500",
+      "paymentTerms": "Do 3 Miesięcznych Płatności",
+      "feature1": "Proces w 100% legalny i gwarantowany",
+      "feature2": "Start w mniej niż 48 godzin",
+      "feature3": "Dokumentacja i tłumaczenia w cenie",
+      "feature4": "Spersonalizowane doradztwo w języku hiszpańskim",
+      "ctaButton": "Rozpocznij Proces"
+    }
+  },
+  "pesel": {
+    "sectionTag": "Bezpłatna Usługa",
+    "title": "Potrzebujesz numeru PESEL?",
+    "subtitle": "Pomożemy Ci bezpłatnie!",
+    "feature1": {
+      "title": "Szybko i Prosto",
+      "description": "Uzyskaj swój PESEL w najkrótszym możliwym czasie dzięki naszemu bezpłatnemu wsparciu."
+    },
+    "feature2": {
+      "title": "Poprawna Dokumentacja",
+      "description": "Pomożemy Ci ze wszystkimi niezbędnymi dokumentami bez żadnych kosztów."
+    },
+    "feature3": {
+      "title": "100% Legalnie",
+      "description": "Całkowicie legalny proces nadzorowany przez profesjonalistów, bez ukrytych kosztów."
+    },
+    "ctaButton": "Złóż Wniosek o PESEL Bezpłatnie",
+    "imageAlt": "Dokument tożsamości"
+  },
+  "banking": {
+    "sectionTag": "Bezpłatna Usługa",
+    "title": "Potrzebujesz otworzyć konto bankowe w Polsce?",
+    "feature1": {
+      "title": "Banki Partnerskie",
+      "description": "Łączymy Cię z bankami, które ułatwiają otwieranie kont dla obcokrajowców, bezpłatnie."
+    },
+    "feature2": {
+      "title": "Sprawny Proces",
+      "description": "Bezpłatne wsparcie w celu przyspieszenia procesu otwierania konta."
+    },
+    "feature3": {
+      "title": "Niezbędna Dokumentacja",
+      "description": "Pomożemy Ci przygotować wszystkie dokumenty wymagane przez bank, bez żadnych kosztów."
+    },
+    "ctaButton": "Poproś o Bezpłatną Pomoc",
+    "imageAlt": "Karta bankowa i dokumenty",
+    "page": {
+      "title": "Otwórz Konto Bankowe w Polsce Bez Komplikacji",
+      "feature1": {
+        "title": "Spersonalizowane Doradztwo",
+        "description": "Prowadzimy Cię na każdym etapie procesu."
+      },
+      "feature2": {
+        "title": "Bez Dodatkowych Kosztów",
+        "description": "Nasza usługa otwierania konta jest całkowicie bezpłatna."
+      },
+      "feature3": {
+        "title": "Ciągłe Wsparcie",
+        "description": "Jesteśmy dostępni, aby odpowiedzieć na wszelkie pytania."
+      },
+      "processTitle": "Proces Otwierania Konta",
+      "processSubtitle": "Postępuj zgodnie z tymi prostymi krokami",
+      "step1": {
+        "title": "Dokumentacja",
+        "description": "Pomożemy Ci przygotować wszystkie niezbędne dokumenty."
+      },
+      "step2": {
+        "title": "Wybór Banku",
+        "description": "Doradzimy Ci, który bank najlepiej odpowiada Twoim potrzebom."
+      },
+      "step3": {
+        "title": "Otwarcie Konta",
+        "description": "Towarzyszymy Ci w procesie otwierania konta bankowego."
+      }
+    }
+  },
+  "guide": {
+    "sectionTag": "Bezpłatny Przewodnik",
+    "title": "Czujesz się zagubiony wśród tylu informacji?",
+    "feature1": {
+      "title": "Jasne Pojęcia",
+      "description": "Wyjaśniamy wszystkie ważne terminy i procesy prostym językiem."
+    },
+    "feature2": {
+      "title": "Krok po Kroku",
+      "description": "Wszystkie etapy procesu legalizacji pobytu wyjaśnione szczegółowo."
+    },
+    "feature3": {
+      "title": "Przydatne Zasoby",
+      "description": "Lista dokumentów, wymagań i praktycznych wskazówek dotyczących Twojego procesu."
+    },
+    "ctaButton": "Pobierz Bezpłatny Przewodnik",
+    "imageAlt": "Przewodnik po legalizacji pobytu",
+    "page": {
+      "title": "Pobierz Swój Bezpłatny Przewodnik po Legalizacji Pobytu w Polsce",
+      "contentTitle": "Zawartość Przewodnika",
+      "contentSubtitle": "Kompletny przewodnik ułatwiający Twój proces",
+      "section1": {
+        "title": "Jasne Pojęcia",
+        "description": "Wyjaśniamy wszystkie ważne terminy i procesy prostym językiem."
+      },
+      "section2": {
+        "title": "Krok po Kroku",
+        "description": "Wszystkie etapy procesu legalizacji pobytu wyjaśnione szczegółowo."
+      },
+      "section3": {
+        "title": "Przydatne Zasoby",
+        "description": "Lista dokumentów, wymagań i praktycznych wskazówek dotyczących Twojego procesu."
+      }
+    }
+  },
+  "map": {
+    "sectionTag": "Reprezentacja na Terenie Całego Kraju",
+    "title": "Pomożemy Ci w Każdym Regionie",
+    "subtitle": "Usługa w 100% online i spersonalizowana dla całej Polski",
+    "feature1": {
+      "title": "Obsługa Krajowa",
+      "description": "Zarządzamy procedurami we wszystkich województwach Polski"
+    },
+    "feature2": {
+      "title": "Spersonalizowana Obsługa",
+      "description": "Dostosowujemy naszą usługę do Twojej konkretnej sytuacji"
+    },
+    "feature3": {
+      "title": "100% Online",
+      "description": "Procedury zdalne ze śledzeniem w czasie rzeczywistym"
+    },
+    "coverageTitle": "Zasięg Krajowy",
+    "coverageDescription": "Zarządzamy Twoją procedurą w każdym regionie Polski zdalnie i osobiście",
+    "imageAlt": "Mapa Polski"
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Jesteśmy tutaj, aby pomóc Ci w procesie legalizacji pobytu",
+    "whatsapp": {
+      "title": "Masz pytania dotyczące swojego statusu?",
+      "description": "Napisz do nas na WhatsApp, specjalista ds. legalizacji pobytu będzie gotowy Ci pomóc.",
+      "button": "Czatuj teraz"
+    },
+    "info1": {
+      "title": "Lokalizacja",
+      "detail": "Ostróda, Polska"
+    },
+    "info2": {
+      "title": "Telefon",
+      "detail": "+48 690 430 962"
+    },
+    "info3": {
+      "title": "Email",
+      "detail": "info@easyprocess.pl"
+    },
+    "form": {
+      "title": "Napisz do nas",
+      "nameLabel": "Imię i nazwisko",
+      "namePlaceholder": "Wprowadź swoje imię i nazwisko",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Wprowadź swój email",
+      "phoneLabel": "Telefon (Opcjonalnie)",
+      "phonePlaceholder": "Wprowadź swój numer telefonu",
+      "messageLabel": "Wiadomość",
+      "messagePlaceholder": "Jak możemy Ci pomóc?",
+      "submitButton": "Wyślij Wiadomość",
+      "successMessage": "Wiadomość wysłana pomyślnie! Skontaktujemy się z Tobą wkrótce.",
+      "errorMessage": "Błąd podczas wysyłania wiadomości. Spróbuj ponownie później."
+    }
+  },
+  "footer": {
+    "companyName": "Easy process",
+    "description": "Twój zaufany partner w legalizacji pobytu w Polsce. Zaangażowani w doskonałość i przejrzystość.",
+    "privacyPolicy": "Polityka Prywatności",
+    "rodo": "RODO (GDPR)",
+    "cookies": "Zarządzanie Plikami Cookie",
+    "copyright": "© {{year}} Easy process",
+    "nip": "NIP: 7412172375"
+  },
+  "peselPage": {
+    "hero": {
+      "badge": "Bezpłatna usługa PESEL",
+      "title": "Uzyskaj numer PESEL <br /> <span class=\"text-blue-600\">Łatwo i szybko</span>",
+      "description": "Wypełnij poniższy formularz krok po kroku, aby rozpocząć składanie wniosku o numer PESEL z naszą bezpłatną pomocą.",
+      "feature1Title": "Proces z przewodnikiem",
+      "feature1Desc": "Towarzyszymy Ci na każdym etapie formularza.",
+      "feature2Title": "Uproszczona dokumentacja",
+      "feature2Desc": "Upewnij się, że masz wszystkie poprawne informacje.",
+      "feature3Title": "Bezpłatne wsparcie",
+      "feature3Desc": "Nasz zespół pomaga bezpłatnie."
+    },
+    "faq": {
+      "title": "Często zadawane pytania",
+      "subtitle": "Wszystko, co musisz wiedzieć o numerze PESEL",
+      "q1Title": "Czym jest numer PESEL?",
+      "q1Answer": "Numer PESEL to unikalny identyfikator przypisywany każdemu mieszkańcowi Polski. Służy do załatwiania spraw administracyjnych, medycznych i podatkowych.",
+      "q2Title": "Kto potrzebuje numeru PESEL?",
+      "q2Answer": "Wszyscy mieszkańcy Polski, w tym cudzoziemcy posiadający zezwolenie na pobyt czasowy lub stały, potrzebują numeru PESEL.",
+      "q3Title": "Ile trwa proces?",
+      "q3Answer": "Zazwyczaj proces uzyskania numeru PESEL trwa od 2 do 4 tygodni od złożenia kompletnego wniosku.",
+      "q4Title": "Jakie dokumenty są potrzebne?",
+      "q4Answer": "Będziesz potrzebować paszportu, zezwolenia na pobyt (jeśli dotyczy), umowy najmu lub potwierdzenia adresu w Polsce, a w niektórych przypadkach aktu urodzenia."
+    }
+  },
+  "pageTitles": {
+    "main": "Easy Process - Pobyt w Polsce"
+  },
+  "servicesCompany": {
+    "advisoryEmployees": {
+      "title": "Doradztwo dla Pracowników",
+      "subtitle": "Kompleksowe rozwiązania dla adaptacji międzynarodowej kadry",
+      "description": "Ułatwiamy integrację Twoich zagranicznych pracowników w Polsce, eliminując bariery kulturowe, administracyjne i prawne, aby mogli osiągać najlepsze wyniki od pierwszego dnia.",
+      "requestInfoButton": "Poproś o informacje",
+      "whatsappButton": "Kontakt przez WhatsApp",
+      "servicesTitle": "Kompleksowe usługi doradcze",
+      "servicesSubtitle": "Oferujemy kompletne rozwiązania, aby Twoi zagraniczni pracownicy czuli się jak w domu",
+      "service1": {
+        "title": "Adaptacja kulturowa",
+        "description": "Programy orientacji kulturowej i językowej ułatwiające integrację Twoich pracowników w Polsce."
+      },
+      "service2": {
+        "title": "Szkolenie prawne",
+        "description": "Szkolenia na temat praw, obowiązków i przepisów prawa pracy w Polsce dla zagranicznych pracowników."
+      },
+      "service3": {
+        "title": "Ciągłe wsparcie",
+        "description": "Stała pomoc w rozwiązywaniu wątpliwości i codziennych sytuacji przez cały okres pobytu."
+      },
+      "service4": {
+        "title": "Zarządzanie administracyjne",
+        "description": "Pomoc w procedurach bankowych, zdrowotnych, podatkowych i innych istotnych procedurach administracyjnych."
+      },
+      "benefitsTitle": "Korzyści dla Twojej firmy",
+      "benefitsSubtitle": "Inwestowanie w dobrostan i adaptację zagranicznych pracowników przynosi wiele korzyści",
+      "benefit1": "Większa retencja międzynarodowych talentów",
+      "benefit2": "Zmniejszony stres adaptacyjny u zagranicznych pracowników",
+      "benefit3": "Zwiększona produktywność od pierwszego dnia",
+      "benefit4": "Zgodność z obowiązkami pracodawcy",
+      "benefit5": "Wzmocniony wizerunek korporacyjny",
+      "benefit6": "Niższa rotacja międzynarodowej kadry",
+      "processTitle": "Nasz proces doradczy",
+      "processSubtitle": "Metodyczne i spersonalizowane podejście zapewniające najlepsze doświadczenie",
+      "phase1": {
+        "number": "1",
+        "title": "Ocena potrzeb",
+        "description": "Analizujemy specyficzne potrzeby Twoich zagranicznych pracowników i Twojej firmy."
+      },
+      "phase2": {
+        "number": "2",
+        "title": "Projektowanie programu",
+        "description": "Tworzymy spersonalizowany program doradczy dostosowany do Twojego sektora i pracowników."
+      },
+      "phase3": {
+        "number": "3",
+        "title": "Wdrożenie",
+        "description": "Realizujemy program z sesjami indywidualnymi i grupowymi według potrzeb."
+      },
+      "phase4": {
+        "number": "4",
+        "title": "Ciągłe monitorowanie",
+        "description": "Utrzymujemy stałe wsparcie i oceniamy wyniki, aby ciągle się doskonalić."
+      },
+      "successCasesTitle": "Przypadki sukcesu",
+      "successCasesSubtitle": "Firmy, które przekształciły doświadczenia swoich międzynarodowych pracowników",
+      "case1": {
+        "company": "European Construction S.A.",
+        "result": "Udana integracja 35 pracowników różnych narodowości w mniej niż 3 miesiące."
+      },
+      "case2": {
+        "company": "Tech Solutions Poland",
+        "result": "40% redukcja rotacji zagranicznej kadry po wdrożeniu naszego programu doradczego."
+      },
+      "ctaTitle": "Przekształć doświadczenie swoich międzynarodowych pracowników",
+      "ctaDescription": "Pozwól nam pomóc Ci stworzyć inkluzywne i produktywne środowisko pracy dla Twojego wielokulturowego zespołu",
+      "ctaButton": "Poproś o spersonalizowaną propozycję",
+      "callButton": "Zadzwoń teraz: +48 690 430 962"
+    },
+    "residenceEmployees": {
+      "title": "Legalizacja Pobytu dla Pracowników",
+      "subtitle": "Kompleksowe rozwiązania imigracyjne dla firm",
+      "description": "Pozwól swojej firmie rozwijać się bez ograniczeń. Zajmujemy się wszystkimi aspektami prawnymi, aby Twoi zagraniczni pracownicy mogli pracować bez obaw imigracyjnych, podczas gdy Ty skupiasz się na tym, co naprawdę ważne: Twoim biznesie.",
+      "requestButton": "Poproś o bezpłatną poradę",
+      "whatsappButton": "Kontakt przez WhatsApp",
+      "benefitsTitle": "Korzyści dla Twojej firmy",
+      "benefitsSubtitle": "Optymalizuj swoje zasoby i wyeliminuj obawy związane ze statusem imigracyjnym Twoich pracowników",
+      "benefit1": {
+        "title": "Oszczędność czasu",
+        "description": "Zmniejsz nawet o 70% czas poświęcany na procedury imigracyjne dla Twoich pracowników."
+      },
+      "benefit2": {
+        "title": "Gwarantowana zgodność prawna",
+        "description": "Zapewniamy, że wszystkie procesy są zgodne z obowiązującymi przepisami, eliminując ryzyko prawne."
+      },
+      "benefit3": {
+        "title": "Zatrzymanie talentów",
+        "description": "Ułatw pozostanie Twoim najlepszym zagranicznym specjalistom bez obaw imigracyjnych."
+      },
+      "benefit4": {
+        "title": "Większa produktywność",
+        "description": "Twoi pracownicy mogą skupić się na swojej pracy, podczas gdy my zajmujemy się ich sytuacją prawną."
+      },
+      "stat1": {
+        "value": "98%",
+        "description": "Wskaźnik powodzenia w procedurach"
+      },
+      "stat2": {
+        "value": "+500",
+        "description": "Firm nam ufa"
+      },
+      "stat3": {
+        "value": "-60%",
+        "description": "Redukcja kosztów administracyjnych"
+      },
+      "stat4": {
+        "value": "+2000",
+        "description": "Zalegalizowanych pracowników"
+      },
+      "processTitle": "Nasz proces legalizacji",
+      "processSubtitle": "Ustrukturyzowane i efektywne podejście zapewniające optymalne wyniki",
+      "step1": {
+        "number": "01",
+        "title": "Wstępna ocena",
+        "description": "Analizujemy specyficzną sytuację każdego pracownika i wymagania dotyczące jego legalizacji."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Przygotowanie dokumentacji",
+        "description": "Zbieramy i przygotowujemy wszystkie niezbędne dokumenty zgodnie z wymogami prawnymi."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Składanie wniosków",
+        "description": "Zarządzamy składaniem wszystkich wniosków do właściwych organów."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Monitorowanie i rozwiązanie",
+        "description": "Monitorujemy proces i odpowiadamy na wszelkie dodatkowe wymagania aż do rozwiązania."
+      },
+      "testimonialsTitle": "Co mówią nasi klienci",
+      "testimonialsSubtitle": "Firmy, które zaufały naszym usługom legalizacyjnym",
+      "testimonial1": {
+        "name": "María Rodríguez",
+        "position": "Dyrektor HR, International Construction",
+        "text": "Dzięki Easy Process mogliśmy zatrudnić ponad 50 zagranicznych pracowników bez żadnych komplikacji prawnych. Ich usługa jest nienaganna."
+      },
+      "testimonial2": {
+        "name": "Alejandro Méndez",
+        "position": "CEO, Agencja Rekrutacji Pracowników",
+        "text": "Współpraca z Easy Process przekształciła naszą zdolność do oferowania zagranicznych pracowników naszym klientom. Niezbędny sojusznik."
+      },
+      "ctaTitle": "Zoptymalizuj zarządzanie imigracją w swojej firmie już dziś",
+      "ctaDescription": "Pozwól swoim pracownikom skupić się na pracy, podczas gdy my zajmujemy się ich sytuacją prawną w Polsce",
+      "ctaButton": "Poproś o konsultację",
+      "callButton": "Zadzwoń teraz: +48 690 430 962"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <!-- Fondo con gradiente morado claro -->
+  <rect width="800" height="500" fill="#f5f3ff"/>
+  
+  <!-- Elementos decorativos -->
+  <circle cx="200" cy="100" r="80" fill="#ede9fe"/>
+  <circle cx="600" cy="400" r="100" fill="#ddd6fe"/>
+  
+  <!-- Representación de asesoramiento y apoyo a empleados -->
+  <g transform="translate(400, 250)">
+    <!-- Persona asesor -->
+    <path d="M-150,-20 C-150,-60 -110,-60 -110,-20 L-110,40 L-150,40 Z" fill="#6366f1"/>
+    <circle cx="-130" cy="-70" r="30" fill="#6366f1"/>
+    
+    <!-- Persona empleado -->
+    <path d="M-50,-20 C-50,-60 -10,-60 -10,-20 L-10,40 L-50,40 Z" fill="#8b5cf6"/>
+    <circle cx="-30" cy="-70" r="30" fill="#8b5cf6"/>
+    
+    <!-- Burbuja de diálogo/asesoramiento -->
+    <path d="M30,-50 L30,20 C30,40 50,40 50,20 L50,-50 C50,-70 30,-70 30,-50 Z" fill="#f0f0f0" stroke="#6366f1" stroke-width="3"/>
+    <line x1="40" y1="-30" x2="80" y2="-30" stroke="#6366f1" stroke-width="3"/>
+    <line x1="40" y1="-10" x2="90" y2="-10" stroke="#6366f1" stroke-width="3"/>
+    <line x1="40" y1="10" x2="70" y2="10" stroke="#6366f1" stroke-width="3"/>
+    
+    <!-- Elementos de integración cultural -->
+    <circle cx="120" cy="-40" r="40" fill="#f0f0f0" stroke="#6366f1" stroke-width="3"/>
+    <path d="M100,-40 L140,-40 M120,-60 L120,-20" stroke="#6366f1" stroke-width="3"/>
+    <circle cx="120" cy="40" r="20" fill="#f0f0f0" stroke="#6366f1" stroke-width="3"/>
+  </g>
+  
+  <!-- Elementos decorativos adicionales -->
+  <rect x="50" y="350" width="200" height="10" rx="5" fill="#6366f1" opacity="0.5"/>
+  <rect x="550" y="150" width="200" height="10" rx="5" fill="#6366f1" opacity="0.5"/>
+  <rect x="150" y="200" width="10" height="100" rx="5" fill="#6366f1" opacity="0.5"/>
+  <rect x="650" y="250" width="10" height="100" rx="5" fill="#6366f1" opacity="0.5"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Fondo circular -->
+  <circle cx="100" cy="100" r="90" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  
+  <!-- Logo de empresa tecnológica -->
+  <g transform="translate(100, 100)">
+    <!-- Símbolo tech estilizado -->
+    <circle cx="0" cy="0" r="40" fill="#7c3aed" opacity="0.2"/>
+    <circle cx="0" cy="0" r="30" fill="#7c3aed" opacity="0.4"/>
+    <circle cx="0" cy="0" r="20" fill="#7c3aed" opacity="0.6"/>
+    
+    <!-- Elementos tecnológicos -->
+    <rect x="-35" y="-5" width="70" height="10" fill="#7c3aed" rx="2"/>
+    <rect x="-5" y="-35" width="10" height="70" fill="#7c3aed" rx="2"/>
+    
+    <!-- Puntos de conexión -->
+    <circle cx="-35" cy="-35" r="8" fill="#7c3aed"/>
+    <circle cx="35" cy="-35" r="8" fill="#7c3aed"/>
+    <circle cx="-35" cy="35" r="8" fill="#7c3aed"/>
+    <circle cx="35" cy="35" r="8" fill="#7c3aed"/>
+  </g>
+  
+  <!-- Texto circular alrededor del logo -->
+  <path id="textPath" d="M 100, 25 a 75,75 0 1,1 -1,0" fill="none"/>
+  <text font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7c3aed">
+    <textPath href="#textPath" startOffset="5%">TECH SOLUTIONS POLAND • INNOVACIÓN DIGITAL •</textPath>
+  </text>
+</svg>

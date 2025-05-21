@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Fondo circular -->
+  <circle cx="100" cy="100" r="90" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  
+  <!-- Logo de constructora -->
+  <g transform="translate(100, 100)">
+    <!-- Edificio/Construcción estilizado -->
+    <rect x="-50" y="-10" width="100" height="60" fill="#2563eb" rx="2"/>
+    <rect x="-40" y="-40" width="80" height="30" fill="#3b82f6" rx="2"/>
+    <rect x="-30" y="-60" width="60" height="20" fill="#60a5fa" rx="2"/>
+    
+    <!-- Grúa estilizada -->
+    <line x1="-15" y1="-60" x2="-15" y2="50" stroke="#1e40af" stroke-width="5"/>
+    <line x1="-15" y1="-50" x2="40" y2="-50" stroke="#1e40af" stroke-width="5"/>
+    <line x1="40" y1="-50" x2="40" y2="-40" stroke="#1e40af" stroke-width="5"/>
+    <line x1="-15" y1="-30" x2="20" y2="-30" stroke="#1e40af" stroke-width="3"/>
+  </g>
+  
+  <!-- Texto circular alrededor del logo -->
+  <path id="textPath" d="M 100, 25 a 75,75 0 1,1 -1,0" fill="none"/>
+  <text font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">
+    <textPath href="#textPath" startOffset="5%">CONSTRUCTORA EUROPEA S.A. • DESDE 1995 •</textPath>
+  </text>
+</svg>

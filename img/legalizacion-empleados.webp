@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <!-- Fondo con gradiente azul claro -->
+  <rect width="800" height="500" fill="#f0f4ff"/>
+  
+  <!-- Elementos decorativos -->
+  <circle cx="200" cy="100" r="80" fill="#e0e8ff"/>
+  <circle cx="600" cy="400" r="100" fill="#d0e0ff"/>
+  
+  <!-- Grupo de personas diversas representando empleados internacionales -->
+  <g transform="translate(400, 250)">
+    <!-- Silueta persona 1 -->
+    <path d="M-120,-20 C-120,-60 -80,-60 -80,-20 L-80,40 L-120,40 Z" fill="#3b82f6"/>
+    <circle cx="-100" cy="-70" r="30" fill="#3b82f6"/>
+    
+    <!-- Silueta persona 2 -->
+    <path d="M-40,-20 C-40,-60 0,-60 0,-20 L0,40 L-40,40 Z" fill="#1d4ed8"/>
+    <circle cx="-20" cy="-70" r="30" fill="#1d4ed8"/>
+    
+    <!-- Silueta persona 3 -->
+    <path d="M40,-20 C40,-60 80,-60 80,-20 L80,40 L40,40 Z" fill="#3b82f6"/>
+    <circle cx="60" cy="-70" r="30" fill="#3b82f6"/>
+    
+    <!-- Documento/Pasaporte -->
+    <rect x="100" y="-60" width="70" height="100" rx="5" fill="#f0f0f0" stroke="#3b82f6" stroke-width="3"/>
+    <line x1="110" y1="-40" x2="160" y2="-40" stroke="#3b82f6" stroke-width="3"/>
+    <line x1="110" y1="-20" x2="160" y2="-20" stroke="#3b82f6" stroke-width="3"/>
+    <line x1="110" y1="0" x2="140" y2="0" stroke="#3b82f6" stroke-width="3"/>
+  </g>
+  
+  <!-- Elementos decorativos adicionales -->
+  <rect x="50" y="350" width="200" height="10" rx="5" fill="#3b82f6" opacity="0.5"/>
+  <rect x="550" y="150" width="200" height="10" rx="5" fill="#3b82f6" opacity="0.5"/>
+  <rect x="150" y="200" width="10" height="100" rx="5" fill="#3b82f6" opacity="0.5"/>
+  <rect x="650" y="250" width="10" height="100" rx="5" fill="#3b82f6" opacity="0.5"/>
+</svg>

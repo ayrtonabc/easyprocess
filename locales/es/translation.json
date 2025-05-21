@@ -1,0 +1,465 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "services_person": "Servicios para Personas",
+    "services_company": "Para Empresas",
+    "contact": "Contacto",
+    "cta_button": "Contáctanos",
+    "free_tag": "Gratis",
+    "premium_tag": "Premium",
+    "services_person_title": "Servicios para Personas",
+    "services_company_title": "Para Empresas",
+    "services_person_submenu": {
+      "pesel": "Solicitud PESEL",
+      "banking": "Gestión Bancaria",
+      "guide": "Guía PDF",
+      "advisory": "Asesoramiento",
+      "residence": "Legalización de Estancia"
+    },
+    "services_company_submenu": {
+      "residence_employees": "Legalización de estancia para empleados",
+      "advisory_employees": "Asesoramiento Empleados",
+      "job_board": "Bolsa de trabajo"
+    }
+  },
+  "hero": {
+    "tagline": "Gestión Confiable y Segura",
+    "title": "Tu residencia <span class=\"text-blue-400\">sin complicaciones</span>",
+    "description": "Te ofrecemos soporte completo y transparencia en cada etapa de la legalización de tu residencia en Polonia, brindándote seguridad e información actualizada.",
+    "detailsButton": "Ver Detalles",
+    "loginButton": "Acceso Clientes",
+    "slide1Title": "En 48 Horas",
+    "slide1Desc": "Presentación de tu Solicitud",
+    "slide2Title": "En 3 Semanas",
+    "slide2Desc": "Recibirás tu Carta Amarilla",
+    "slide3Title": "Sistema de Seguimiento",
+    "slide3Desc": "Directamente conectado con la Oficina de Extranjería, tendrás información actualizada del estado de tu proceso",
+    "slide4Title": "Todos Los Documentos al Alcance",
+    "slide4Desc": "Dispone de tu documentación ordenada y actualizada"
+  },
+  "services": {
+    "title": "¿Qué Ofrecemos?",
+    "subtitle": "Soluciones prácticas para cada etapa del proceso",
+    "card1Title": "Inicio de Residencia",
+    "card1Desc": "Gestionamos todo el proceso desde cero con eficiencia y precisión.",
+    "card1Feature1": "Evaluación gratuita",
+    "card1Feature2": "Preparación de documentos",
+    "card1Feature3": "Presentación oficial",
+    "card1Feature4": "Seguimiento completo",
+    "card2Title": "Continuar Proceso",
+    "card2Desc": "Resolvemos trabas y avanzamos tu solicitud con expertise.",
+    "card2Feature1": "Revisión del estado",
+    "card2Feature2": "Corrección de errores",
+    "card2Feature3": "Presentación de poderes",
+    "card2Feature4": "Cancelación de poderes",
+    "card2Feature5": "Asesoría legal",
+    "card3Title": "Gestión de Citas",
+    "card3Desc": "Recuperamos citas perdidas y coordinamos nuevas fechas.",
+    "card3Feature1": "Reprogramación rápida",
+    "card3Feature2": "Contacto con autoridades",
+    "card3Feature3": "Seguimiento activo",
+    "card3Feature4": "Confirmación asegurada",
+    "card4Title": "Apelaciones",
+    "card4Desc": "Defendemos tu caso ante negativas con estrategia legal.",
+    "card4Feature1": "Análisis detallado",
+    "card4Feature2": "Argumentos sólidos",
+    "card4Feature3": "Documentación extra",
+    "card4Feature4": "Representación legal"
+  },
+  "process": {
+    "sectionTitle": "Proceso Simple",
+    "title": "Paso a Paso",
+    "subtitle": "Un proceso claro y transparente, diseñado para tu tranquilidad",
+    "step1": {
+      "title": "Evaluación Gratuita",
+      "description": "Analizamos tu caso y creamos un plan personalizado para tu situación específica."
+    },
+    "step2": {
+      "title": "Documentación",
+      "description": "Preparamos y traducimos todos tus documentos necesarios para el proceso."
+    },
+    "step3": {
+      "title": "Acompañamiento",
+      "description": "Te representamos ante las autoridades hasta obtener tu residencia."
+    }
+  },
+  "advantages": {
+    "title": "¿Por Qué Elegirnos?",
+    "subtitle": "Seguimiento detallado y un sistema propio para tu tranquilidad",
+    "card1": {
+      "title": "Inicio Rápido",
+      "description": "Tu proceso comienza en menos de 48 horas con seguimiento detallado desde el primer día."
+    },
+    "card2": {
+      "title": "Representación Total",
+      "description": "Te representamos ante las autoridades polacas, manteniéndote informado en cada etapa."
+    },
+    "card3": {
+      "title": "Preparación de Documentos",
+      "description": "Nos encargamos de preparar y revisar tus documentos, con actualizaciones en todo momento."
+    },
+    "card4": {
+      "title": "Seguimiento en Tiempo Real",
+      "description": "Accede a nuestro sistema exclusivo para ver el estado de tu proceso cuando quieras."
+    },
+    "card5": {
+      "title": "Notificaciones Automáticas",
+      "description": "Recibe actualizaciones por email y SMS sobre cada avance o cambio importante."
+    },
+    "card6": {
+      "title": "Atención en Español",
+      "description": "Comunicación clara y personalizada en tu idioma, siempre a tu disposición."
+    }
+  },
+  "pricing": {
+    "sectionTitle": "Precio Único",
+    "title": "Sin costos ocultos ni sorpresas",
+    "subtitle": "Un solo costo por un servicio integral y representación completa en tu proceso de residencia. Sin sorpresas.",
+    "requirementsTitle": "Requisitos Básicos",
+    "requirement1": {
+      "title": "90 Días desde el Ingreso",
+      "description": "Debes iniciar el trámite dentro de los primeros 90 días desde tu ingreso a la Unión Europea."
+    },
+    "requirement2": {
+      "title": "Pasaporte Válido",
+      "description": "Tu pasaporte debe estar vigente durante todo el proceso de residencia."
+    },
+    "requirement3": {
+      "title": "Motivo de Estancia",
+      "description": "Necesitas un motivo válido: trabajo, estudios o reunificación familiar."
+    },
+    "calculator": {
+      "toggleButtonOpen": "Comprobar si estás dentro del plazo",
+      "toggleButtonClose": "Cerrar Calculadora",
+      "title": "Calcula tu Fecha Límite",
+      "entryDateLabel": "Fecha de ingreso a la UE:",
+      "statusExpired": "⚠️ Lo sentimos, el plazo de 90 días ya ha expirado. Contáctanos para evaluar otras opciones.",
+      "statusUrgent": "⚡ ¡Urgente! Te quedan pocos días. Contáctanos inmediatamente para iniciar tu proceso.",
+      "statusOk": "✅ Perfecto! Tienes hasta el {{deadlineDate}} para iniciar el proceso ({{daysLeft}} días restantes)."
+    },
+    "plan": {
+      "title": "Proceso Completo de Residencia",
+      "currency": "PLN",
+      "price": "1500",
+      "paymentTerms": "Hasta en 3 Pagos Mensuales",
+      "feature1": "Proceso 100% legal y garantizado",
+      "feature2": "Inicio en menos de 48 horas",
+      "feature3": "Documentación y traducciones incluidas",
+      "feature4": "Asesoría personalizada en español",
+      "ctaButton": "Comenzar Proceso"
+    }
+  },
+  "pesel": {
+    "sectionTag": "Servicio Gratuito",
+    "title": "¿Necesitas tu número PESEL?",
+    "subtitle": "¡Te ayudamos sin costo!",
+    "feature1": {
+      "title": "Rápido y Simple",
+      "description": "Obtén tu PESEL en el menor tiempo posible con nuestro acompañamiento gratuito."
+    },
+    "feature2": {
+      "title": "Documentación Correcta",
+      "description": "Te ayudamos con todos los documentos necesarios sin ningún costo."
+    },
+    "feature3": {
+      "title": "100% Legal",
+      "description": "Proceso completamente legal y supervisado por profesionales, sin costos ocultos."
+    },
+    "ctaButton": "Solicitar PESEL Gratis",
+    "imageAlt": "Documento de identidad"
+  },
+  "banking": {
+    "sectionTag": "Servicio Gratuito",
+    "title": "¿Necesitas abrir una cuenta bancaria en Polonia?",
+    "feature1": {
+      "title": "Bancos Asociados",
+      "description": "Te conectamos con bancos que facilitan la apertura de cuentas para extranjeros, sin costo."
+    },
+    "feature2": {
+      "title": "Proceso Ágil",
+      "description": "Acompañamiento gratuito para agilizar el proceso de apertura de tu cuenta."
+    },
+    "feature3": {
+      "title": "Documentación Necesaria",
+      "description": "Te ayudamos a preparar todos los documentos requeridos por el banco, sin ningún costo."
+    },
+    "ctaButton": "Solicitar Ayuda Gratuita",
+    "imageAlt": "Tarjeta bancaria y documentos",
+    "page": {
+      "title": "Abre tu Cuenta Bancaria en Polonia sin Complicaciones",
+      "feature1": {
+        "title": "Asesoría Personalizada",
+        "description": "Te guiamos en cada paso del proceso."
+      },
+      "feature2": {
+        "title": "Sin Costo Adicional",
+        "description": "Nuestro servicio de apertura de cuenta es completamente gratuito."
+      },
+      "feature3": {
+        "title": "Soporte Continuo",
+        "description": "Estamos disponibles para resolver cualquier duda."
+      },
+      "processTitle": "Proceso de Apertura de Cuenta",
+      "processSubtitle": "Sigue estos sencillos pasos",
+      "step1": {
+        "title": "Documentación",
+        "description": "Te ayudamos a preparar todos los documentos necesarios."
+      },
+      "step2": {
+        "title": "Elección del Banco",
+        "description": "Te asesoramos para elegir el banco que mejor se adapte a tus necesidades."
+      },
+      "step3": {
+        "title": "Apertura de Cuenta",
+        "description": "Te acompañamos en el proceso de apertura de tu cuenta bancaria."
+      }
+    }
+  },
+  "guide": {
+    "sectionTag": "Guía Gratuita",
+    "title": "¿Te sientes perdido con tanta información?",
+    "feature1": {
+      "title": "Conceptos Claros",
+      "description": "Explicamos en lenguaje simple todos los términos y procesos importantes."
+    },
+    "feature2": {
+      "title": "Paso a Paso",
+      "description": "Todas las etapas del proceso de residencia explicadas en detalle."
+    },
+    "feature3": {
+      "title": "Recursos Útiles",
+      "description": "Lista de documentos, requisitos y consejos prácticos para tu proceso."
+    },
+    "ctaButton": "Descargar Guía Gratuita",
+    "imageAlt": "Guía de residencia",
+    "page": {
+      "title": "Descarga tu Guía Gratuita para la Residencia en Polonia",
+      "contentTitle": "Contenido de la Guía",
+      "contentSubtitle": "Una guía completa para facilitar tu proceso",
+      "section1": {
+        "title": "Conceptos Claros",
+        "description": "Explicamos en lenguaje simple todos los términos y procesos importantes."
+      },
+      "section2": {
+        "title": "Paso a Paso",
+        "description": "Todas las etapas del proceso de residencia explicadas en detalle."
+      },
+      "section3": {
+        "title": "Recursos Útiles",
+        "description": "Lista de documentos, requisitos y consejos prácticos para tu proceso."
+      }
+    }
+  },
+  "map": {
+    "sectionTag": "Representación en Todo el Pais",
+    "title": "Te Ayudamos en Cualquier Región",
+    "subtitle": "Servicio 100% online y personalizado para toda Polonia",
+    "feature1": {
+      "title": "Servicio Nacional",
+      "description": "Gestionamos trámites en todos los voivodatos de Polonia"
+    },
+    "feature2": {
+      "title": "Atención Personalizada",
+      "description": "Adaptamos nuestro servicio a tu situación específica"
+    },
+    "feature3": {
+      "title": "100% Online",
+      "description": "Trámites a distancia con seguimiento en tiempo real"
+    },
+    "coverageTitle": "Cobertura Nacional",
+    "coverageDescription": "Gestionamos tu trámite en cualquier región de Polonia de forma remota y personalizada",
+    "imageAlt": "Mapa de Polonia"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estamos aquí para ayudarte en tu proceso de residencia",
+    "whatsapp": {
+      "title": "¿Tienes dudas sobre tu status?",
+      "description": "Escríbenos por WhatsApp, un especialista en legalización de estancia estará listo para ayudarte.",
+      "button": "Chatear ahora"
+    },
+    "info1": {
+      "title": "Ubicación",
+      "detail": "Ostroda, Polonia"
+    },
+    "info2": {
+      "title": "Teléfono",
+      "detail": "+48 690 430 962"
+    },
+    "info3": {
+      "title": "Email",
+      "detail": "info@easyprocess.pl"
+    },
+    "form": {
+      "title": "Escríbenos tu consulta",
+      "nameLabel": "Nombre completo",
+      "namePlaceholder": "Ingresa tu nombre completo",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "Ingresa tu correo electrónico",
+      "phoneLabel": "Teléfono (Opcional)",
+      "phonePlaceholder": "Ingresa tu número de teléfono",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "¿Cómo podemos ayudarte?",
+      "submitButton": "Enviar Mensaje",
+      "successMessage": "¡Mensaje enviado con éxito! Nos pondremos en contacto contigo pronto.",
+      "errorMessage": "Error al enviar el mensaje. Por favor, inténtalo de nuevo más tarde."
+    }
+  },
+  "address_phone": {
+    "title": "Dirección y Número de Teléfono",
+    "description": "Encuentra nuestra ubicación y contáctanos directamente por teléfono."
+  },
+  "legal_specialist": {
+    "title": "Especialista en Legalización de Estancia",
+    "description": "Consulta con nuestros expertos para tu proceso de residencia."
+  },
+  "footer": {
+    "companyName": "Easy Process",
+    "description": "Tu socio confiable para la legalización de residencia en Polonia. Comprometidos con la excelencia y la transparencia.",
+    "privacyPolicy": "Política de Privacidad",
+    "rodo": "RODO (GDPR)",
+    "cookies": "Manejo de Cookies",
+    "copyright": "© {{year}} Easy Process",
+    "nip": "NIP: 7412172375",
+    "downloads": "Descargas"
+  },
+  "peselPage": {
+    "hero": {
+      "badge": "Servicio Gratuito PESEL",
+      "title": "Obtén tu Número PESEL <br /> <span class=\"text-blue-600\">Fácil y Rápido</span>",
+      "description": "Completa el siguiente formulario paso a paso para iniciar tu solicitud de PESEL con nuestra ayuda gratuita.",
+      "feature1Title": "Proceso Guiado",
+      "feature1Desc": "Te acompañamos en cada etapa del formulario.",
+      "feature2Title": "Documentación Simplificada",
+      "feature2Desc": "Asegúrate de tener toda la información correcta.",
+      "feature3Title": "Soporte Gratuito",
+      "feature3Desc": "Nuestro equipo te asiste sin costo alguno."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Todo lo que necesitas saber sobre el número PESEL",
+      "q1Title": "¿Qué es el número PESEL?",
+      "q1Answer": "El número PESEL es un identificador único asignado a cada residente en Polonia. Se utiliza para trámites administrativos, médicos y fiscales.",
+      "q2Title": "¿Quién necesita un número PESEL?",
+      "q2Answer": "Todos los residentes en Polonia, incluyendo extranjeros con permiso de residencia temporal o permanente, necesitan un número PESEL.",
+      "q3Title": "¿Cuánto tiempo tarda el proceso?",
+      "q3Answer": "Normalmente, el proceso de obtención del número PESEL toma entre 2 y 4 semanas desde la presentación de la solicitud completa.",
+      "q4Title": "¿Qué documentos necesito?",
+      "q4Answer": "Necesitarás tu pasaporte, permiso de residencia (si aplica), contrato de arrendamiento o prueba de domicilio en Polonia, y en algunos casos, certificado de nacimiento."
+    }
+  },
+  "pageTitles": {
+    "main": "Easy Process - Residencia en Polonia"
+  },
+  "downloads": {
+    "title": "Centro de Descargas",
+    "subtitle": "Acceda a documentos y formularios relacionados con procesos de residencia en Polonia",
+    "searchPlaceholder": "Buscar documentos...",
+    "filterByCategory": "Filtrar por categoría:",
+    "downloadButton": "Descargar",
+    "noResults": "No se encontraron documentos",
+    "tryAnotherSearch": "Intente con otra búsqueda o seleccione otra categoría",
+    "noteTitle": "Información importante",
+    "noteText": "Los documentos proporcionados son solo para referencia. Asegúrese de verificar la versión más reciente en los sitios oficiales. Para asistencia con estos documentos, no dude en contactarnos.",
+    "available": "Disponible",
+    "comingSoon": "Próximamente",
+    "notAvailableYet": "No disponible aún",
+    "categories": {
+      "all": "Todas",
+      "residence": "Residencia",
+      "legal": "Legal",
+      "identification": "Identificación",
+      "labor": "Laboral",
+      "student": "Estudiante",
+      "family": "Familia"
+    },
+    "doc1": {
+      "title": "Solicitud de Permiso de Residencia Temporal y Trabajo",
+      "description": "Formulario principal para iniciar el trámite de residencia."
+    },
+    "doc2": {
+      "title": "Formulario de Solicitud de Número PESEL",
+      "description": "Para obtener el número de identificación personal si no te lo asignan automáticamente."
+    },
+    "doc3": {
+      "title": "Declaración de Domicilio (Zameldowanie)",
+      "description": "Documento oficial para registrar tu lugar de residencia en Polonia."
+    },
+    "doc4": {
+      "title": "Contrato de Trabajo o Carta de Oferta Laboral",
+      "description": "Necesario si tu residencia está basada en empleo. Puede ser un contrato definitivo o una oferta formal."
+    },
+    "doc5": {
+      "title": "Formulario de Cancelación de Poderes",
+      "description": "Solo es necesario si otorgaste representación y quieres cancelarla."
+    },
+    "doc6": {
+      "title": "Formulario de Declaración de Recursos Financieros",
+      "description": "Demuestra que tienes medios suficientes para vivir en Polonia sin necesidad de asistencia social."
+    },
+    "doc7": {
+      "title": "Formulario de Alojamiento o Cesión de Vivienda",
+      "description": "Documento firmado por el arrendador o propietario que certifica que vives legalmente en la propiedad."
+    },
+    "doc8": {
+      "title": "Formulario de Representación (Poder Notarial)",
+      "description": "Si otra persona presenta la solicitud en tu nombre."
+    },
+    "doc9": {
+      "title": "Formulario de Recolección de la Decisión",
+      "description": "Documento que autoriza a otra persona a recoger la decisión en tu lugar (opcional)."
+    },
+    "doc10": {
+      "title": "Declaración del Empleador",
+      "description": "Confirmación del empleador de que aún estás trabajando o vas a ser contratado."
+    },
+    "doc11": {
+      "title": "Formulario de Información Adicional sobre el Empleo (Załącznik nr 1)",
+      "description": "Requerido si solicitas la Karta Pobytu por trabajo. Contiene información detallada sobre tu empleador, condiciones laborales, salario, etc."
+    },
+    "doc12": {
+      "title": "Formulario de Información del Estudiante (Załącznik nr 2)",
+      "description": "Para quienes solicitan la residencia por estudios. Proporcionado por la universidad o institución educativa."
+    },
+    "doc13": {
+      "title": "Formulario de Información sobre Actividades Empresariales (Załącznik nr 3)",
+      "description": "Si eres autónomo o tienes una empresa registrada en Polonia."
+    },
+    "doc14": {
+      "title": "Certificado de Matrimonio o Nacimiento",
+      "description": "Para solicitudes por reunificación familiar. También puede requerirse para hijos o cónyuge."
+    },
+    "doc15": {
+      "title": "Declaración del Empleador sobre Continuación del Trabajo",
+      "description": "Carta firmada donde el empleador declara que mantendrás tu empleo. Puede complementar el contrato laboral."
+    },
+    "doc16": {
+      "title": "Comprobante de Estudios",
+      "description": "Carta de aceptación o certificado de matrícula expedido por la universidad (si aplica)."
+    },
+    "doc17": {
+      "title": "Comprobante de Seguro Médico",
+      "description": "Si no estás asegurado por ZUS (seguridad social pública)."
+    },
+    "doc18": {
+      "title": "Confirmación de Empadronamiento (Zameldowanie)",
+      "description": "Es el registro oficial en tu lugar de residencia en Polonia."
+    },
+    "doc19": {
+      "title": "Recibo de pago de la tasa consular / administrativa",
+      "description": "Generalmente 340 PLN por solicitud de permiso de residencia temporal."
+    },
+    "doc20": {
+      "title": "Justificante de Medios Económicos",
+      "description": "Extractos bancarios, contrato de trabajo, declaración de ingresos, etc. Debes demostrar que puedes mantenerte económicamente."
+    },
+    "doc21": {
+      "title": "Copia de Visa o Permiso de Entrada",
+      "description": "Si aplica para tu caso particular."
+    },
+    "doc22": {
+      "title": "Traducciones juradas de documentos extranjeros",
+      "description": "Todo documento no redactado en polaco debe estar traducido por un traductor jurado en Polonia."
+    }
+  }
+}
